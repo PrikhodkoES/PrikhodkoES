@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrikhodkoES
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Spring
 - 📫 How to reach me: nomerd503@gmail.com
 
 <!---
